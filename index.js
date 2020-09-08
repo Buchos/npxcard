@@ -1,10 +1,9 @@
-
 #!/usr/bin / env node
 /* buche/npxcard
  *
  * /index.js - Main Entry point
  *
- * coded by buche!
+ * stealed from leny
  * refactored at 27/08/2019
  */
 
@@ -16,10 +15,10 @@ const data = {
     name: chalk.white("             Arthur PLUYMERS"),
     handle: chalk.white("buche"),
     work: chalk.white("Code Guardian at BeCode.org"),
-    twitter: chalk.gray("https://twitter.com/") + chalk.cyan("buche_be"),
+    twitter: chalk.gray("https://twitter.com/") + chalk.cyan("buch0s"),
     npm: chalk.gray("https://npmjs.com/") + chalk.red("~buche"),
     github: chalk.gray("https://github.com/") + chalk.green("buchos"),
-    linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("arthur.pluymers"),
+    linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("arthur-pluymers-105580171/"),
     web: chalk.cyan("https://buche.me"),
     npx: chalk.red("npx") + " " + chalk.white("buche"),
     labelWork: chalk.white.bold("       Work:"),
